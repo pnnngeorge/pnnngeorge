@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pnnngeorge
-- 👀 I’m interested in Sinal Processing
+- 👀 I’m interested in Signal Processing
 - 🌱 I’m currently learning INN
 - 💞️ I’m looking to collaborate on None
 - 📫 reach me at 181180114@smail.nju.edu.cn
